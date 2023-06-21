@@ -11,10 +11,10 @@ With our website, you can sign up and join our community to experience the new g
 You can book treatment sessions, choose the doctor and the time that suits you best and follow your appoitments.
 
 ## Contributers
-Ahmed Mohamed Ali
-Hassan Hussein Ewees
-Hesham Tamer Mohamed 
-Muhannad Abdallah Abdallah
-Ali Sherif Badran
-Omar Nabil
+Ahmed Mohamed Ali |
+Hassan Hussein Ewees |
+Hesham Tamer Mohamed |
+Muhannad Abdallah Abdallah |
+Ali Sherif Badran |
+Omar Nabil |
 
