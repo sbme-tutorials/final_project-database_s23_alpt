@@ -14,7 +14,7 @@ You can book treatment sessions, choose the doctor and the time that suits you b
 1.Ahmed Mohamed Ali 
 
 
-2.Hassan Hussein Ewees 
+2.Hassan Hussein Owees 
 
 
 3.Hesham Tamer Mohamed 
