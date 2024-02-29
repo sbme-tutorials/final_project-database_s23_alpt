@@ -1,4 +1,8 @@
 # final_project-database_s23_alpt
+![image](https://github.com/sbme-tutorials/final_project-database_s23_alpt/assets/110257687/2d090f03-e9a6-493b-ace9-b282194a3dc9)
+![image](https://github.com/sbme-tutorials/final_project-database_s23_alpt/assets/110257687/88e78bbe-f338-4dca-87f5-9b9ba9998acc)
+
+
 ## Introduction
 Active life, a leading physiotherapy clinic dedicated to providing exceptional care and
 transformative outcomes for our patients. We understand that each individual's journey to wellness is
